@@ -60,4 +60,4 @@ No coding needed — just Power BI and Excel skills.
 ---
 
 ### 🔹 View Live Dashboard
-- 🌐 [Open Dashboard in Power BI Service](https://app.powerbi.com/groups/94f43455-cb4a-4f0d-9fba-34a1851ad5af/dashboards/39b764a3-e611-400e-9860-f32eb08c5645?experience=power-bi)
+- 🌐 [Open Dashboard in Power BI Service](https://app.powerbi.com/view?r=eyJrIjoiYzgxYjNkMTQtYjU1Ni00YjMxLTg2Y2ItYzgwZGJhZDVhNWJlIiwidCI6IjI4NTk5YTNjLTI0MjMtNGZlMy04YmZlLTcwMGE5ODYwYTMxOCJ9)
